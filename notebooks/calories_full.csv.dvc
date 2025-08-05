@@ -1,0 +1,5 @@
+outs:
+- md5: 6bebb47241c5501019a781e1171b5085
+  size: 742286
+  hash: md5
+  path: calories_full.csv

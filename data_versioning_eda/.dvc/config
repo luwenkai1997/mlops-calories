@@ -1,4 +1,3 @@
 ['remote "myremote"']
-    url = s3://dvc-store-bucket
+    url = s3://amazon-sagemaker-730353348097-us-east-1-028ed1706034/dvcstore
     endpointurl = https://s3.amazonaws.com
-
